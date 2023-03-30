@@ -14,5 +14,10 @@
   },
   "lockFileMaintenance": {
     "enabled": true
+  },
+  "force": {
+    "constraints": {
+      "flutter": "3.3.10"
+    }
   }
 }
